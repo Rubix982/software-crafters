@@ -6,8 +6,8 @@ categories:
     - references
     - list
 tags:
-    -
-
+    - meetups
+    - past
 ---
 
 # Past Meet-ups
