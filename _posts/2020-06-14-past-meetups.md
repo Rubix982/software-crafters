@@ -1,3 +1,15 @@
+---
+title: "Past Meetups"
+date: 2020-06-14T15:34:30-04:00
+categories:
+    - meetups
+    - references
+    - list
+tags:
+    -
+
+---
+
 # Past Meet-ups
 
 ## :lollipop: 2020.06.13 - If only there were less IFs

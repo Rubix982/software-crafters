@@ -1,3 +1,17 @@
+---
+title: "Introduction To Software Crafters!"
+date: 2020-05-26T15:34:30-04:00
+categories:
+  - introduction
+  - front
+  - main
+  - blog
+tags:
+  - guidelines
+  - idea
+---
+
+
 # Kata Guidelines
 
 We usually follow the practices listed in our kata meet-ups, unless mentioned otherwise.
