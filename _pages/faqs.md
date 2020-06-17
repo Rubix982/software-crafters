@@ -29,5 +29,5 @@ A): The more you do something, the more you gradually tend to thnk in that direc
 -----------
 
 Q): What is a `kata`?
-A): Refer to the [Kata Guide](/_posts/2020-05-26-kata-guide.md);
+A): Refer to the [Kata Guide](/2020-05-26-kata-guide.md);
 
