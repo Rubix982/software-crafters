@@ -5,7 +5,7 @@ title: "FAQs"
 
 # Before you read ahead ...
 
-Please go ahead and look into the [about section](/_pages/about.md) first to read what this community is basically about.
+Please go ahead and look into the [about section](/about.md) first to read what this community is basically about.
 
 # Some FAQs
 
